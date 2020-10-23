@@ -19,6 +19,9 @@
     flex: 0 1 auto;
     flex-wrap: wrap;
 }
+.logo a{
+    text-decoration:none;
+}
 .logo img{}
 nav{
     width: 80%;
